@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01c1d49f.css",
+    "main.js": "/static/js/main.9724b59e.js",
+    "static/js/787.f2942efb.chunk.js": "/static/js/787.f2942efb.chunk.js",
+    "static/media/tantagua.mp4": "/static/media/tantagua.dfe8e95921c7008ad9ba.mp4",
+    "static/media/button.svg": "/static/media/button.0193428182b465fb4f35d09e345e92e2.svg",
+    "index.html": "/index.html",
+    "main.01c1d49f.css.map": "/static/css/main.01c1d49f.css.map",
+    "main.9724b59e.js.map": "/static/js/main.9724b59e.js.map",
+    "787.f2942efb.chunk.js.map": "/static/js/787.f2942efb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c1d49f.css",
+    "static/js/main.9724b59e.js"
+  ]
+}
